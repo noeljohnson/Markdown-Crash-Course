@@ -45,10 +45,10 @@
 ```
 
 
-|Name | Email            | 
--------------------------
-|Noel | noel@example.com |
-|Nikil| nikil@example.com|
+|Name   | Email             | 
+|-------|-------------------|
+| Noel  | noel@example.com  |
+| Nikil | nikil@example.com |
 
 
 <!--tasks list-->
